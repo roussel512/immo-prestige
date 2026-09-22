@@ -1,0 +1,6 @@
+{
+  "name": "Immo Prestige - Haute Villégiature Privée",
+  "description": "Location exclusive de villas d'exception avec piscine privée sans vis-à-vis, vidéos réelles et conciergerie dédiée.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
